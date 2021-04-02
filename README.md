@@ -3,7 +3,7 @@
 This program is basically a calculator. It took ~1 minute to write and does not produce results that expose information you would not be able to gather with a simple calculator. However, it can save you the time of summing 70+ values and division, and is very easy to setup and run.
 <br>
 <br>
-My primary intention is the inspire others to interpret their results in a simialr way, to create basic code that myself and anyone can add to, and most importantly, to promote transparency in the interview process!
+My primary intention is the inspire others to interpret their results in a similar way, to create basic code that myself and anyone can add to, and most importantly, to promote transparency in the interview process!
 
 ## Setup:
 Download your Pymetrics data (JSON file): 
